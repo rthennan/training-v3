@@ -547,7 +547,7 @@ image::CabbieExample3.png[CabbieExample3,width=800,align=center]
 
 [.notes]
 --
-We can't really compare db hits here because we are calling a procedures for the full-text schema search, but we do see fewer rows in the execution plan. We see that the execution plan is doing a _NodeByLabelScan_ which is producing a lot of rows.
+We can't really compare db hits here because we are calling a procedures for the full-text schema search, but we do see fewer rows in the execution plan. In the previous query (before adding the full-text schema index), the execution plan performed a _NodeByLabelScan_ which produced a lot of rows.
 We have already determined from the call to queryRelationships which particular relationships are associated with the index.
 The problem, however is that the execution plan scans for all relationships between _Actors_ and _Movies_.
 This is a problem.
