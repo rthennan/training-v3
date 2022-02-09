@@ -160,7 +160,7 @@ image::returnSome.png[returnSome,width=800,align=center]
 
 [.notes]
 --
-The number of db hits is greater, but the elapsed time is smaller. You can imagine that over a network, you would see greater differences in performance.
+The number of db hits is smaller and the elapsed time is smaller. You can imagine that over a network, you would see greater differences in performance.
 
 And in the table view, we see that the query took the same amount of time and the streaming of the results was faster because there is less data to stream.
 --
