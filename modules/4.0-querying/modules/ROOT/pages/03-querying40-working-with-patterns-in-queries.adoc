@@ -30,7 +30,7 @@ At the end of this module, you will write Cypher statements to:
 Suppose we want to find all of the followers of people who reviewed the movie, _The Replacements_.
 
 ifndef::env-slides[]
-Here is the query to do this:
+Here is the query:
 endif::[]
 
 [source,Cypher,role=noplay]
