@@ -13,6 +13,15 @@ image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/Over
 
 == About the Course
 
+[TIP]
+.Hands-on Learning
+====
+This course has been replaced by the link:https://graphacademy.neo4j.com/courses/neo4j-fundamentals/?ref=old[Neo4j Fundamentals course] on the brand new link:https://graphacademy.neo4j.com/?ref=old[GraphAcademy^] website.
+
+Head over to the link:https://graphacademy.neo4j.com?ref=old[new GraphAcademy website^] now for a brand new range of interactive, hands-on courses.
+====
+
+
 This online course introduces you to Neo4j 4.x and the Neo4j Graph Platform.
 You will learn what a graph database is and how it is supported with Neo4j.
 You will learn about the features of Neo4j and the many ways you can access a Neo4j instance.

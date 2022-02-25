@@ -12,6 +12,14 @@ image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/Impl
 
 == About the Course
 
+[TIP]
+.Hands-on Learning
+====
+This course has been replaced by the link:https://graphacademy.neo4j.com/courses/modeling-fundamentals/?ref=old[Neo4j Data Modeling Fundamentals course] on the brand new link:https://graphacademy.neo4j.com/?ref=old[GraphAcademy^] website.
+
+Head over to the link:https://graphacademy.neo4j.com?ref=old[new GraphAcademy website^] now for a brand new range of interactive, hands-on courses.
+====
+
 This online course is a collection of lessons and hands-on exercises that teach you how to write Cypher code to create nodes and relationships for an existing data model.
 Then you will learn how to write Cypher code to evolve the graph as the application questions change and also as the graph data model changes.
 

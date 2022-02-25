@@ -12,6 +12,14 @@ image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/Quer
 
 == About the Course
 
+[TIP]
+.Hands-on Learning
+====
+This course has been replaced by the link:https://graphacademy.neo4j.com/courses/cypher-fundamentals/?ref=old[Cypher Fundamentals course] on the brand new link:https://graphacademy.neo4j.com/?ref=old[GraphAcademy^] website.
+
+Head over to the link:https://graphacademy.neo4j.com?ref=old[new GraphAcademy website^] now for a brand new range of interactive, hands-on courses.
+====
+
 This online course is a collection of lessons and and hands-on exercises which help you build a good starting knowledge for querying the Neo4j 4.x DBMS.
 You will learn Cypher syntax for querying the database and perform numerous hands-on exercises.
 
