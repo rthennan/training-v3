@@ -315,7 +315,7 @@ If we set these properties for all nodes in the graph that do not have _born_ pr
 [source,Cypher,role=nocopy noplay]
 ----
 MATCH (p:Person) 
-WHERE NOT exists(p.born)
+WHERE p.born IS NULL
 SET p.born = 0
 ----
 
